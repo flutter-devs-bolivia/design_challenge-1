@@ -14,8 +14,8 @@ Con la participacion de:
 - [Alvaro Martinez (@alvardud)](https://twitter.com/alvardud)
 
 Puedes disfrutar el desarrollo de la sesion en:
-[Design Challenge #1](https://www.facebook.com/FlutterDevsBolivia/videos/317782819591727)
-[Adobe Xd project](https://xd.adobe.com/view/8b347e21-3a08-476b-44e1-2d68f3cf17e7-fd05/grid?fbclid=IwAR26i_1QE8j0A237UANSslvuW5xSFsb3fXbevUoXTAZh-Cu1i3VVbhBgYoM)
+- [Design Challenge #1](https://www.facebook.com/FlutterDevsBolivia/videos/317782819591727)
+- [Adobe Xd project](https://xd.adobe.com/view/8b347e21-3a08-476b-44e1-2d68f3cf17e7-fd05/grid?fbclid=IwAR26i_1QE8j0A237UANSslvuW5xSFsb3fXbevUoXTAZh-Cu1i3VVbhBgYoM)
 
 ## Flutter Devs Bolivia
 
